@@ -189,7 +189,7 @@ This checklist helps new team members quickly understand their role, responsibil
 - [ ] Understand technology stack and infrastructure
 - [ ] Review security and compliance requirements
 - [ ] Access development and production environments
-- [ ] Understand architectural decision records (ADRs)
+- [ ] Understand Architectural Decision Records (ADRs)
 
 **First Tasks:**
 - [ ] Review a recent technical design or architecture proposal
@@ -270,7 +270,7 @@ This checklist helps new team members quickly understand their role, responsibil
 As you onboard, use this framework to clarify who owns what and how work flows between roles:
 
 ### Questions to Ask
-1. **Ownership**: Who is the DRI (Directly Responsible Individual) for this decision or deliverable?
+1. **Ownership**: Who is the directly responsible individual (DRI) for this decision or deliverable?
 2. **Handoffs**: At what point do I hand off work to the next role? What format should it be in?
 3. **Inputs**: What do I need from others to do my job effectively?
 4. **Outputs**: What do others need from me, and in what format?
@@ -318,7 +318,7 @@ As you onboard, use this framework to clarify who owns what and how work flows b
 **Solutions Architect → Developers:**
 - **What**: Technical design and architecture specifications
 - **When**: Before implementation begins
-- **Format**: Architecture diagrams, ADRs, and technical specs
+- **Format**: Architecture diagrams, Architectural Decision Records (ADRs), and technical specs
 - **Handoff Point**: Design review or sprint planning
 
 **Scrum Master → Project Manager:**
